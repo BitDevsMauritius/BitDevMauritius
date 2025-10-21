@@ -1,5 +1,5 @@
 # Hi there 👋
-Welcome to BitDevs Mauritius 🇲🇺 a community of builders, developers, and curious minds on the island exploring the research and development of Bitcoin and related open-source technologies.
+Welcome to BitDevs Mauritius 🇲🇺 🌴 a community of builders, developers, and curious minds on the island exploring the research and development of Bitcoin and related open-source technologies.
 
 # Socratic Seminars 🧠
 We host monthly Socratic-style meetups designed to spark thoughtful discussions, share insights, and deepen understanding of Bitcoin from its core technology to Layer 2 innovations like the Lightning Network.
